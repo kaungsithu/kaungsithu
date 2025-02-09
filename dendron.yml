@@ -83,8 +83,7 @@ preview:
     automaticallyShowPreview: true
     theme: custom
 publishing:
-    siteUrl: https://kaungsithu.github.io
-    enableFMTitle: true
+    enableFMTitle: false
     enableNoteTitleForLink: true
     enablePrettyRefs: true
     enableKatex: true
@@ -103,10 +102,13 @@ publishing:
         editViewMode: tree
     enableSiteLastModified: true
     enableFrontmatterTags: true
-    enableHashesForFMTags: false
+    enableHashesForFMTags: true
     enableRandomlyColoredTags: true
     enableTaskNotes: true
     enablePrettyLinks: true
     searchMode: search
+    siteUrl: https://kaungsithu.github.io
     theme: light
-
+    hierarchyDisplayTitle: Children
+    siteFaviconPath: site-assets/favicon.ico
+    logoPath: site-assets/logo.png

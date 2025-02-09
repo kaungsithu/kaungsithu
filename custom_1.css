@@ -1,0 +1,119 @@
+/* Customizing the theme for the published Dendron site.  Calm Technology Theme */
+
+/* ============> Background Colors <============ */
+section.side-layout-main {
+    background: #111111; /* Very dark gray - almost black */
+  }
+  
+  footer.ant-layout-footer {
+    background: #111111; /* Match main background */
+  }
+  
+  header.ant-layout-header {
+    background: #111111; /* Match main background */
+  }
+  
+  .dendron-tree-menu.ant-menu
+  .ant-menu-submenu.dendron-ant-menu-submenu-selected
+  > .ant-menu-submenu-title {
+    background: #212121; /* Slightly lighter for selected sidebar item */
+  }
+  
+  .site-layout-sidebar.ant-layout,
+  .ant-layout-sider,
+  .ant-menu-submenu,
+  .site-layout-sidebar.ant-layout .ant-menu.ant-menu-inline,
+  .ant-menu-vertical .ant-menu-submenu,
+  .ant-menu-vertical-left .ant-menu-submenu,
+  .ant-menu-vertical-right .ant-menu-submenu,
+  .ant-menu-inline .ant-menu-submenu {
+    background: #111111; /* Match main background */
+  }
+  
+  /* ============> Text and Link Colors <============ */
+  body,
+  h1,
+  h2,
+  h3,
+  h4 {
+    color: #EEEEEE; /* Off-white for text */
+  }
+  
+  a,
+  a:hover,
+  a:active {
+    color: #90CAF9; /* Soft blue for links */
+  }
+  
+  a:visited {
+    color: #7CB5EC; /* Slightly darker blue for visited links */
+  }
+  
+  a.private {
+    color: #BDBDBD; /* Light gray for private/missing notes */
+  }
+  
+  .dendron-toc .ant-anchor-link-title {
+    color: #EEEEEE; /* Off-white for TOC items */
+  }
+  
+  .dendron-tree-menu.ant-menu .ant-menu-title-content a {
+    color: #90CAF9; /* Soft blue for sidebar links */
+  }
+  
+  footer .ant-typography {
+    color: #EEEEEE; /* Off-white for footer text */
+  }
+  
+  footer .ant-typography.ant-typography-secondary {
+    color: #BDBDBD; /* Light gray for "last modified" text */
+  }
+  
+  .ant-menu-item a:hover,
+  .ant-menu-item > .ant-badge a:hover,
+  .ant-menu-submenu-selected {
+    color: #90CAF9; /* Soft blue for selected sidebar item hover */
+  }
+  
+  .ant-menu-submenu .ant-menu-submenu-title:hover {
+    color: #90CAF9; /* Soft blue for sidebar item hover */
+  }
+  
+  .dendron-tree-menu.ant-menu .ant-menu-inline .ant-menu-item-selected::after {
+    border-color: #90CAF9; /* Soft blue for selected sidebar item indicator */
+  }
+  
+  .ant-menu:not(.ant-menu-horizontal) .ant-menu-item-selected {
+    background-color: #212121; /* Slightly lighter gray for selected sidebar item background */
+  }
+  
+  .dendron-toc .ant-anchor-ink-ball {
+    border-color: #90CAF9; /* Soft blue for TOC dot */
+  }
+  
+  /* ============> Other Styles (Optional) <============ */
+  
+  /* Code Block Styling (Example) */
+  .markdown-body pre,  /* Or the specific selector for your code blocks */
+  .markdown-body code {
+    background-color: #282c34; /* Darker background for code */
+    color: #abb2bf; /* Lighter text for code */
+    /* Add padding, border-radius, etc. as needed */
+  }
+  
+  /* SQL-Style Titles (Example - Adapt as needed) */
+  /* h1, h2, h3, h4 {
+    font-family: [Your Nerd Font Name Here]; 
+  } 
+*/
+  
+  /* Button Styling (Example - Adapt as needed) */
+  button, /* Or the specific selector for your buttons */
+  .ant-btn { /* If Dendron uses Ant Design buttons */
+    background-color: #BDBDBD; /* Gray for buttons */
+    color: #111111; /* Dark text on buttons */
+    border: none;
+    /* Add padding, border-radius, hover effects, etc. */
+  }
+  
+  /* Add more custom styles as needed */

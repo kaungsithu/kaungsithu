@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@dendronhq/dendron-cli": "^0.122.0"
+  },
+  "name": "kaungsithu-portfolio",
+  "version": "1.0.0",
+  "description": "Kaung SiThu's portfolio and blog.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": ""
+  },
+  "author": "Kaung SiThu",
+  "license": "ISC"
+}

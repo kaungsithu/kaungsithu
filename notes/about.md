@@ -2,13 +2,13 @@
 id: vwb9kn7vsijfyuc0xofz0ey
 title: About
 desc: ''
-updated: 1739085193184
+updated: 1739100086407
 created: 1739085170729
 ---
 # About Me  (or Your Name)
 
 **(Hero Section - Top of the page)**
-
+![](/assets/images/2025-02-09-17-51-22.png)
 *   A professional headshot.
 *   A brief, impactful introduction (2-3 sentences).  Focus on your passion and key skills.  Example:  "Data-driven problem solver passionate about building robust data pipelines and empowering businesses with actionable insights. Experienced in data engineering, analytics, and cloud technologies."
 *   A clear call to action: "View My Resume" (links to `/resume/summary.md`) or "Explore My Talks" (links to `/talks/`).

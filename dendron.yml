@@ -83,6 +83,7 @@ preview:
     automaticallyShowPreview: true
     theme: custom
 publishing:
+    siteUrl: https://kaungsithu.github.io
     enableFMTitle: true
     enableNoteTitleForLink: true
     enablePrettyRefs: true
@@ -108,3 +109,4 @@ publishing:
     enablePrettyLinks: true
     searchMode: search
     theme: light
+

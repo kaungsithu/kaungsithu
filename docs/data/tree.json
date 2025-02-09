@@ -1,0 +1,18 @@
+{
+  "roots": [
+    {
+      "key": "vwb9kn7vsijfyuc0xofz0ey",
+      "title": "About",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "Portfolio",
+      "children": []
+    }
+  ],
+  "child2parent": {
+    "vwb9kn7vsijfyuc0xofz0ey": null
+  },
+  "notesLabelById": {
+    "vwb9kn7vsijfyuc0xofz0ey": "About"
+  }
+}

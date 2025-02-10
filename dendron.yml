@@ -74,14 +74,14 @@ workspace:
     enableFullHierarchyNoteTitle: false
     enablePersistentHistory: false
 preview:
-    enableFMTitle: true
+    enableFMTitle: false
     enableNoteTitleForLink: true
     enableFrontmatterTags: true
     enableHashesForFMTags: false
     enablePrettyRefs: true
     enableKatex: true
     automaticallyShowPreview: true
-    theme: custom
+    theme: light
 publishing:
     enableFMTitle: false
     enableNoteTitleForLink: true
@@ -89,20 +89,27 @@ publishing:
     enableKatex: true
     copyAssets: true
     siteHierarchies:
-        - root
+        - about-me
+        - resume
+        - projects
+        - blog
+        - talks
     writeStubs: false
     siteRootDir: docs
     seo:
-        title: Dendron
-        description: Personal Knowledge Space
+        title: Kaung SiThu Portfolio
+        description: >-
+            Portfolio and blog posts relating mostly to data engineering and
+            analytics.
+        author: Kaung SiThu
     github:
-        enableEditLink: true
+        enableEditLink: false
         editLinkText: Edit this page on GitHub
         editBranch: main
         editViewMode: tree
-    enableSiteLastModified: true
-    enableFrontmatterTags: true
-    enableHashesForFMTags: true
+    enableSiteLastModified: false
+    enableFrontmatterTags: false
+    enableHashesForFMTags: false
     enableRandomlyColoredTags: true
     enableTaskNotes: true
     enablePrettyLinks: true
@@ -112,3 +119,4 @@ publishing:
     hierarchyDisplayTitle: Children
     siteFaviconPath: site-assets/favicon.ico
     logoPath: site-assets/logo.png
+    enableBackLinks: false

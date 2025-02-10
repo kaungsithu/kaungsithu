@@ -2,21 +2,21 @@
 
 /* ============> Background Colors <============ */
 section.side-layout-main {
-    background: #111111; /* Very dark gray - almost black */
+    background: #EEEEEE; 
   }
   
   footer.ant-layout-footer {
-    background: #111111; /* Match main background */
+    background: #EEEEEE; 
   }
   
   header.ant-layout-header {
-    background: #111111; /* Match main background */
+    background: #EEEEEE; 
   }
   
   .dendron-tree-menu.ant-menu
   .ant-menu-submenu.dendron-ant-menu-submenu-selected
   > .ant-menu-submenu-title {
-    background: #212121; /* Slightly lighter for selected sidebar item */
+    background: #90CAF9; 
   }
   
   .site-layout-sidebar.ant-layout,
@@ -27,7 +27,7 @@ section.side-layout-main {
   .ant-menu-vertical-left .ant-menu-submenu,
   .ant-menu-vertical-right .ant-menu-submenu,
   .ant-menu-inline .ant-menu-submenu {
-    background: #111111; /* Match main background */
+    background: #EEEEEE; 
   }
   
   /* ============> Text and Link Colors <============ */
@@ -36,7 +36,7 @@ section.side-layout-main {
   h2,
   h3,
   h4 {
-    color: #EEEEEE; /* Off-white for text */
+    color: #111111; /* Off-white for text */
   }
   
   a,
@@ -46,7 +46,7 @@ section.side-layout-main {
   }
   
   a:visited {
-    color: #7CB5EC; /* Slightly darker blue for visited links */
+    color: #CE93D8; /* Slightly darker blue for visited links */
   }
   
   a.private {
@@ -54,7 +54,7 @@ section.side-layout-main {
   }
   
   .dendron-toc .ant-anchor-link-title {
-    color: #EEEEEE; /* Off-white for TOC items */
+    color: #555555; /* Off-white for TOC items */
   }
   
   .dendron-tree-menu.ant-menu .ant-menu-title-content a {

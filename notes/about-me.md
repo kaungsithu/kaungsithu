@@ -2,28 +2,24 @@
 id: vwb9kn7vsijfyuc0xofz0ey
 title: About Me
 desc: ''
-updated: 1739208242080
+updated: 1739298912466
 created: 1739085170729
 ---
-<hr/>
-
 # <span style="color:MediumSeaGreen">~></span> <span style="color:SteelBlue">select</span> <span style="color:Salmon">*</span> <span style="color:SteelBlue">from</span> **About;**
 
 <img src="/assets/images/profile-picture.png" style="width:200px; height:200px; float:right;" />
 
-# ** Kaung SiThu ** 
-## **_ Data Enginer & Analytics Enthusiast _**
+# Kaung SiThu  
+## _ Data Enginer & Analytics Enthusiast _
 Life is short. Let's make technology work for us for the better of humanity.  
 
 <br/><br/>
 **Hello there! Welcome to my portfolio page.**  
 
 I'm driven by a passion for transforming raw data into actionable insights. I thrive on building robust data pipelines and crafting solutions that empower data-driven decision-making.  My expertise lies in data engineering, cloud technologies, and system integration. I believe technology should serve humanity, and I'm always eager to explore innovative ways to make that happen.
-
 <br/>
 
-
-<a href="https://kaungsithu.github.io/notes/y8p0l00iqb0o432b9dn3gbr" >
+<!-- <a href="https://kaungsithu.github.io/notes/y8p0l00iqb0o432b9dn3gbr" >
     <button style="cursor: pointer; padding: 5px 5px;" >
         <span style="font-size:1.2em;" > 
             <strong> Explore My Journey <strong>
@@ -40,19 +36,33 @@ I'm driven by a passion for transforming raw data into actionable insights. I th
         <img src="/assets/images/download-pdf-32.png" />
     </button>
 </a>
-<br/><br/>
+<br/><br/> -->
 
-## Career Insights
+### [** 🚀 Explore my career journey **](career-journey)
+### [** 📝 Download my Resume **](/assets/KaungSiThu-Resume.pdf)
 
-![](/assets/images/career-insights.png)
+## 📊 Career Insights
+
+### Education and Career Timeline
+
+[![A chart of my education and career in timeline format.](/assets/images/career-timeline.jpg)](https://kaungsithu.github.io/notes/ap3o9rbjjjnk0vy7jsyu1b8)
+### Skill Composition
+
+![A donut chart of my overall skill compositions](/assets/images/skill-composition.jpg)
+
+### Skill Experience Years
+
+![A bar graph of my top skills and their years of experience](/assets/images/skill-experience.jpg)
+
+<!-- ![](/assets/images/career-insights.png) -->
 
 
 ## Contact Information  
 
 I'd love to connect and discuss data engineering and analytics!  
 
-- ✉️ - [kaungsithu.kaungsithu@gmail.com](mailto:kaungsithu.kaungsithu@gmail.com)
-- ![](/assets/images/linkedin-logo.png) - [linkedin.com/in/ksithu](linkedin.com/in/ksithu)
+- ✉️ - [** kaungsithu.kaungsithu@gmail.com **](mailto:kaungsithu.kaungsithu@gmail.com)
+- ![](/assets/images/linkedin-logo.png) - [** linkedin.com/in/ksithu **](linkedin.com/in/ksithu)
 
 
 

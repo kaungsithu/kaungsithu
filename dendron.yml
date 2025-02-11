@@ -90,10 +90,10 @@ publishing:
     copyAssets: true
     siteHierarchies:
         - about-me
-        - resume
         - projects
         - blog
         - talks
+        - career-journey
     writeStubs: false
     siteRootDir: docs
     seo:
@@ -119,4 +119,6 @@ publishing:
     hierarchyDisplayTitle: Children
     siteFaviconPath: site-assets/favicon.ico
     logoPath: site-assets/logo.png
-    enableBackLinks: false
+    enableBackLinks: true
+    enableHierarchyDisplay: false
+    siteIndex: about-me

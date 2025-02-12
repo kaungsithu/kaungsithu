@@ -3,7 +3,7 @@ id: vwb9kn7vsijfyuc0xofz0ey
 title: About Me
 desc: ''
 enableGiscus: true
-updated: 1739348872692
+updated: 1739362731166
 created: 1739085170729
 ---
 # <span style="color:MediumSeaGreen">~></span> <span style="color:SteelBlue">select</span> <span style="color:Salmon">*</span> <span style="color:SteelBlue">from</span> **About;**
@@ -41,7 +41,7 @@ I'm driven by a passion for transforming raw data into actionable insights. I th
 
 ### [** 🚀 Explore Career Journey **](career-journey)
 ### [** 🖥 Browse Showcase **](showcase)
-### [** 📥 Download Resume **](/assets/KaungSiThu-Resume.pdf)
+### [** 📥 Download Resume (PDF) **](/assets/Kaung%20SiThu%20-%20Resume.pdf)
 
 ## 📊 Career Insights
 

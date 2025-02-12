@@ -2,7 +2,8 @@
 id: vwb9kn7vsijfyuc0xofz0ey
 title: About Me
 desc: ''
-updated: 1739338655495
+enableGiscus: true
+updated: 1739340550747
 created: 1739085170729
 ---
 # <span style="color:MediumSeaGreen">~></span> <span style="color:SteelBlue">select</span> <span style="color:Salmon">*</span> <span style="color:SteelBlue">from</span> **About;**

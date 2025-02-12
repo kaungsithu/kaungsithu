@@ -1,7 +1,8 @@
 module.exports = [
     {
       type: 'note',
-      id: 'about'
+      id: 'about',
+      label: 'About'
     },
     {
       type: 'category',
@@ -10,23 +11,28 @@ module.exports = [
       items: [
         {
           type: 'note',
-          id: 'experience'
+          id: 'experience',
+          label: 'Experience'
         },
         {
           type: 'note',
-          id: 'skills'
+          id: 'skills',
+          label: 'Skills'
         },
         {
           type: 'note',
-          id: 'certifications'
+          id: 'certifications',
+          label: 'Certifications'
         },
         {
           type: 'note',
-          id: 'education'
+          id: 'education',
+          label: 'Education'
         },
         {
           type: 'note',
-          id: 'additional-experience'
+          id: 'additional-experience',
+          label: 'Additional Experience'
         }
       ]
     },

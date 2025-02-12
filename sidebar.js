@@ -11,27 +11,27 @@ module.exports = [
     items: [
       {
         type: 'note',
-        id: 'experience',
+        id: 'career-journey.experience',
         label: 'Experience'
       },
       {
         type: 'note',
-        id: 'skills',
+        id: 'career-journey.skills',
         label: 'Skills'
       },
       {
         type: 'note',
-        id: 'certifications',
+        id: 'career-journey.certifications',
         label: 'Certifications'
       },
       {
         type: 'note',
-        id: 'education',
+        id: 'career-journey.education',
         label: 'Education'
       },
       {
         type: 'note',
-        id: 'additional-experience',
+        id: 'career-journey.additional-experience',
         label: 'Additional Experience'
       }
     ]
@@ -43,7 +43,7 @@ module.exports = [
     items: [
       {
         type: 'note',
-        id: 'a-data-engineer-journey',
+        id: 'showcase.a-data-engineer-journey',
         label: "A Data Engineer's Journey"
       }
     ]

@@ -89,7 +89,7 @@ publishing:
     enableKatex: true
     copyAssets: true
     siteHierarchies:
-        - about-me
+        - about
         - career-journey
         - showcase
     writeStubs: false
@@ -119,7 +119,7 @@ publishing:
     logoPath: site-assets/logo.png
     enableBackLinks: true
     enableHierarchyDisplay: false
-    siteIndex: about-me
+    siteIndex: about
     giscus:
         id: comments
         repo: kaungsithu/kaungsithu.github.io
@@ -134,4 +134,4 @@ publishing:
         inputPosition: top
         lang: en
         loading: lazy
-    sidebarPath: ./sidebar.js
+    sidebarPath: sidebar.js

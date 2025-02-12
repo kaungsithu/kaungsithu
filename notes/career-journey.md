@@ -3,7 +3,7 @@ id: y8p0l00iqb0o432b9dn3gbr
 title: Career Journey
 desc: ''
 enableGiscus: true
-updated: 1739362709236
+updated: 1739369589796
 created: 1739110685802
 ---
 
@@ -21,6 +21,12 @@ A highly motivated and results-driven data engineer passionate about building sc
 ![[career-journey.certifications#-professional-certifications]]  
 
 ![[career-journey.education#-education-details]]  
+
+![[career-journey.additional-experience#-public-speaking--knowledge-sharing]]
+
+![[career-journey.additional-experience#-achievements--recognitions]]
+
+![[career-journey.additional-experience#-projects--contributions]]
 
 ## 📥 Download Resume  
 [** Download Resume (PDF) **](/assets/Kaung%20SiThu%20-%20Resume.pdf)  

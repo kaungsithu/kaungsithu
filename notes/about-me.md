@@ -2,7 +2,7 @@
 id: vwb9kn7vsijfyuc0xofz0ey
 title: About Me
 desc: ''
-updated: 1739298912466
+updated: 1739338655495
 created: 1739085170729
 ---
 # <span style="color:MediumSeaGreen">~></span> <span style="color:SteelBlue">select</span> <span style="color:Salmon">*</span> <span style="color:SteelBlue">from</span> **About;**
@@ -57,13 +57,12 @@ I'm driven by a passion for transforming raw data into actionable insights. I th
 <!-- ![](/assets/images/career-insights.png) -->
 
 
-## Contact Information  
+## 📬 Contact Information  
 
 I'd love to connect and discuss data engineering and analytics!  
 
-- ✉️ - [** kaungsithu.kaungsithu@gmail.com **](mailto:kaungsithu.kaungsithu@gmail.com)
-- ![](/assets/images/linkedin-logo.png) - [** linkedin.com/in/ksithu **](linkedin.com/in/ksithu)
-
+- ✉️ - <a href="mailto:kaungsithu.kaungsithu@gmail.com"> ** kaungsithu.kaungsithu@gmail.com ** </a>
+- ![](/assets/images/linkedin-logo.png) - <a href="https://www.linkedin.com/in/ksithu" target="_blank"> ** linkedin.com/in/ksithu ** </a>
 
 
 

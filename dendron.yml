@@ -90,10 +90,8 @@ publishing:
     copyAssets: true
     siteHierarchies:
         - about-me
-        - projects
-        - blog
-        - talks
         - career-journey
+        - showcase
     writeStubs: false
     siteRootDir: docs
     seo:
@@ -122,3 +120,17 @@ publishing:
     enableBackLinks: true
     enableHierarchyDisplay: false
     siteIndex: about-me
+    giscus:
+      id: comments
+      repo: "kaungsithu/kaungsithu.github.io"
+      repoId: "R_kgDON2qA5w"
+      mapping: "title"
+      category: "Announcements"
+      categoryId: "DIC_kwDON2qA584Cm44Q"
+      theme: light
+      strict: "0"
+      reactionsEnabled: "1"
+      emitMetadata: "0"
+      inputPosition: "top"
+      lang: "en"
+      loading: "lazy"

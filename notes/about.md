@@ -2,7 +2,7 @@
 id: vwb9kn7vsijfyuc0xofz0ey
 title: About
 desc: ''
-updated: 1739365508087
+updated: 1739370167189
 created: 1739085170729
 enableGiscus: true
 ---
@@ -11,7 +11,7 @@ enableGiscus: true
 <img src="/assets/images/profile-picture.png" style="width:200px; height:200px; float:right;" />
 
 # Kaung SiThu  
-## _ Data Enginer & Analytics Enthusiast _
+## _ Data Engineer & Analytics Enthusiast _
 Life is short. Let's make technology work for us for the better of humanity.  
 
 <br/><br/>

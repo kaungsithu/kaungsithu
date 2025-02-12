@@ -135,3 +135,5 @@ publishing:
         lang: en
         loading: lazy
     sidebarPath: sidebar.js
+    ga:
+        tracking: G-TT9ZQ2SFQ7

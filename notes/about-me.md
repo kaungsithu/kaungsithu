@@ -3,7 +3,7 @@ id: vwb9kn7vsijfyuc0xofz0ey
 title: About Me
 desc: ''
 enableGiscus: true
-updated: 1739340550747
+updated: 1739348872692
 created: 1739085170729
 ---
 # <span style="color:MediumSeaGreen">~></span> <span style="color:SteelBlue">select</span> <span style="color:Salmon">*</span> <span style="color:SteelBlue">from</span> **About;**
@@ -39,8 +39,9 @@ I'm driven by a passion for transforming raw data into actionable insights. I th
 </a>
 <br/><br/> -->
 
-### [** 🚀 Explore my career journey **](career-journey)
-### [** 📝 Download my Resume **](/assets/KaungSiThu-Resume.pdf)
+### [** 🚀 Explore Career Journey **](career-journey)
+### [** 🖥 Browse Showcase **](showcase)
+### [** 📥 Download Resume **](/assets/KaungSiThu-Resume.pdf)
 
 ## 📊 Career Insights
 
@@ -51,7 +52,7 @@ I'm driven by a passion for transforming raw data into actionable insights. I th
 
 ![A donut chart of my overall skill compositions](/assets/images/skill-composition.jpg)
 
-### Skill Experience Years
+### Experience Years of Skills
 
 ![A bar graph of my top skills and their years of experience](/assets/images/skill-experience.jpg)
 

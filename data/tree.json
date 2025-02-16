@@ -1,0 +1,100 @@
+{
+  "roots": [
+    {
+      "key": "vwb9kn7vsijfyuc0xofz0ey",
+      "title": "About",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "Portfolio",
+      "children": []
+    },
+    {
+      "key": "y8p0l00iqb0o432b9dn3gbr",
+      "title": "Career Journey",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "Portfolio",
+      "children": [
+        {
+          "key": "ap3o9rbjjjnk0vy7jsyu1b8",
+          "title": "Experience",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Portfolio",
+          "children": []
+        },
+        {
+          "key": "pfn3yafwj5q5cnwpru9kgmy",
+          "title": "Skills",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Portfolio",
+          "children": []
+        },
+        {
+          "key": "bw5jmbt2dtjcw5xs9x2qr00",
+          "title": "Certifications",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Portfolio",
+          "children": []
+        },
+        {
+          "key": "megd9nfsesifnzzt2v8gj8p",
+          "title": "Education",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Portfolio",
+          "children": []
+        },
+        {
+          "key": "3nvkpypdkmwo40aytvhrkfh",
+          "title": "Additional Experience",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Portfolio",
+          "children": []
+        }
+      ]
+    },
+    {
+      "key": "xulowrfdq2vygbvc2chfehb",
+      "title": "Showcase",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "Portfolio",
+      "children": [
+        {
+          "key": "ohvpqwgil5q4ka74vxkmctc",
+          "title": "A Data Engineer's Journey",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Portfolio",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "vwb9kn7vsijfyuc0xofz0ey": null,
+    "y8p0l00iqb0o432b9dn3gbr": null,
+    "ap3o9rbjjjnk0vy7jsyu1b8": "y8p0l00iqb0o432b9dn3gbr",
+    "pfn3yafwj5q5cnwpru9kgmy": "y8p0l00iqb0o432b9dn3gbr",
+    "bw5jmbt2dtjcw5xs9x2qr00": "y8p0l00iqb0o432b9dn3gbr",
+    "megd9nfsesifnzzt2v8gj8p": "y8p0l00iqb0o432b9dn3gbr",
+    "3nvkpypdkmwo40aytvhrkfh": "y8p0l00iqb0o432b9dn3gbr",
+    "xulowrfdq2vygbvc2chfehb": null,
+    "ohvpqwgil5q4ka74vxkmctc": "xulowrfdq2vygbvc2chfehb"
+  },
+  "notesLabelById": {
+    "vwb9kn7vsijfyuc0xofz0ey": "About",
+    "y8p0l00iqb0o432b9dn3gbr": "Career Journey",
+    "ap3o9rbjjjnk0vy7jsyu1b8": "Experience",
+    "pfn3yafwj5q5cnwpru9kgmy": "Skills",
+    "bw5jmbt2dtjcw5xs9x2qr00": "Certifications",
+    "megd9nfsesifnzzt2v8gj8p": "Education",
+    "3nvkpypdkmwo40aytvhrkfh": "Additional Experience",
+    "xulowrfdq2vygbvc2chfehb": "Showcase",
+    "ohvpqwgil5q4ka74vxkmctc": "A Data Engineer's Journey"
+  }
+}

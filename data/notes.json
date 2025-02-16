@@ -1,0 +1,2162 @@
+{
+  "notes": {
+    "403": {
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Portfolio"
+      },
+      "fname": "403",
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1739695364672,
+      "created": 1739695364672,
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {}
+    },
+    "xulowrfdq2vygbvc2chfehb": {
+      "id": "xulowrfdq2vygbvc2chfehb",
+      "title": "Showcase",
+      "desc": "",
+      "updated": 1739470810583,
+      "created": 1739338758710,
+      "custom": {
+        "nav_order": 2
+      },
+      "fname": "showcase",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Portfolio"
+      },
+      "contentHash": "a6d5c34b882d45f7775e3c5e706cba1d",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "showcase",
+            "id": "xulowrfdq2vygbvc2chfehb",
+            "vaultName": "Portfolio"
+          },
+          "value": "showcase.a-data-engineer-journey",
+          "alias": "A Data Engineer's Journey",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 9,
+              "offset": 198
+            },
+            "end": {
+              "line": 5,
+              "column": 73,
+              "offset": 262
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "showcase.a-data-engineer-journey"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "showcase",
+            "id": "xulowrfdq2vygbvc2chfehb",
+            "vaultName": "Portfolio"
+          },
+          "value": "showcase.critical-role-of-data-analytics-systems-&-talents",
+          "alias": "Future Proofing Business: The Critical Role of Data Analytics Systems and Talents",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 9,
+              "offset": 272
+            },
+            "end": {
+              "line": 7,
+              "column": 153,
+              "offset": 416
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "showcase.critical-role-of-data-analytics-systems-&-talents"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "showcase",
+            "id": "xulowrfdq2vygbvc2chfehb",
+            "vaultName": "Portfolio"
+          },
+          "value": "showcase.a-data-engineer-journey",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 1,
+              "offset": 423
+            },
+            "end": {
+              "line": 11,
+              "column": 47,
+              "offset": 469
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "showcase.a-data-engineer-journey",
+            "anchorHeader": "-preface"
+          }
+        },
+        {
+          "from": {
+            "fname": "about",
+            "id": "vwb9kn7vsijfyuc0xofz0ey",
+            "vaultName": "Portfolio"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 35,
+              "column": 7,
+              "offset": 1635
+            },
+            "end": {
+              "line": 35,
+              "column": 40,
+              "offset": 1668
+            },
+            "indent": []
+          },
+          "value": "showcase"
+        }
+      ],
+      "anchors": {
+        "-select--from-showcase": {
+          "type": "header",
+          "text": "~> select * from Showcase;",
+          "value": "-select--from-showcase",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
+        "--a-data-engineers-journey": {
+          "type": "header",
+          "text": "🌱  A Data Engineer's Journey",
+          "value": "--a-data-engineers-journey",
+          "line": 11,
+          "column": 0,
+          "depth": 3
+        },
+        "--future-proofing-business-the-critical-role-of-data-analytics-systems-and-talents": {
+          "type": "header",
+          "text": "🌱  Future Proofing Business: The Critical Role of Data Analytics Systems and Talents",
+          "value": "--future-proofing-business-the-critical-role-of-data-analytics-systems-and-talents",
+          "line": 13,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [
+        "ohvpqwgil5q4ka74vxkmctc",
+        "ef03q224azk0hdv3qbvmsr3"
+      ],
+      "parent": null,
+      "data": {}
+    },
+    "ef03q224azk0hdv3qbvmsr3": {
+      "id": "ef03q224azk0hdv3qbvmsr3",
+      "title": "Critical Role of Data Analytics Systems & Talents",
+      "desc": "",
+      "updated": 1739470919569,
+      "created": 1739470638410,
+      "custom": {},
+      "fname": "showcase.critical-role-of-data-analytics-systems-&-talents",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Portfolio"
+      },
+      "contentHash": "f79dba6de5015b575d5a587fd4f6b433",
+      "links": [
+        {
+          "from": {
+            "fname": "showcase",
+            "id": "xulowrfdq2vygbvc2chfehb",
+            "vaultName": "Portfolio"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 9,
+              "offset": 272
+            },
+            "end": {
+              "line": 7,
+              "column": 153,
+              "offset": 416
+            },
+            "indent": []
+          },
+          "value": "showcase.critical-role-of-data-analytics-systems-&-talents"
+        }
+      ],
+      "anchors": {
+        "future-proofing-business-the-critical-role-of-data-analytics-systems-and-talents": {
+          "type": "header",
+          "text": "Future Proofing Business: The Critical Role of Data Analytics Systems and Talents",
+          "value": "future-proofing-business-the-critical-role-of-data-analytics-systems-and-talents",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
+        "--this-page-is-not-published-yet-please-come-back-later-for-more-": {
+          "type": "header",
+          "text": "🚧 👷 This page is not published yet! Please come back later for more. 🚧",
+          "value": "--this-page-is-not-published-yet-please-come-back-later-for-more-",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "xulowrfdq2vygbvc2chfehb",
+      "data": {}
+    },
+    "ohvpqwgil5q4ka74vxkmctc": {
+      "id": "ohvpqwgil5q4ka74vxkmctc",
+      "title": "A Data Engineer Journey",
+      "desc": "",
+      "updated": 1739469866272,
+      "created": 1739368447223,
+      "custom": {},
+      "fname": "showcase.a-data-engineer-journey",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Portfolio"
+      },
+      "contentHash": "256061d35031cde68dfdfc15c58ad6fe",
+      "links": [
+        {
+          "from": {
+            "fname": "showcase",
+            "id": "xulowrfdq2vygbvc2chfehb",
+            "vaultName": "Portfolio"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 9,
+              "offset": 198
+            },
+            "end": {
+              "line": 5,
+              "column": 73,
+              "offset": 262
+            },
+            "indent": []
+          },
+          "value": "showcase.a-data-engineer-journey"
+        },
+        {
+          "from": {
+            "fname": "showcase",
+            "id": "xulowrfdq2vygbvc2chfehb",
+            "vaultName": "Portfolio"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 1,
+              "offset": 423
+            },
+            "end": {
+              "line": 11,
+              "column": 47,
+              "offset": 469
+            },
+            "indent": []
+          },
+          "value": "showcase.a-data-engineer-journey"
+        },
+        {
+          "from": {
+            "fname": "career-journey.additional-experience",
+            "id": "3nvkpypdkmwo40aytvhrkfh",
+            "vaultName": "Portfolio"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 5,
+              "offset": 452
+            },
+            "end": {
+              "line": 7,
+              "column": 69,
+              "offset": 516
+            },
+            "indent": []
+          },
+          "value": "showcase.a-data-engineer-journey"
+        }
+      ],
+      "anchors": {
+        "-a-data-engineers-journey": {
+          "type": "header",
+          "text": "🚀 A Data Engineer's Journey",
+          "value": "-a-data-engineers-journey",
+          "line": 7,
+          "column": 0,
+          "depth": 1
+        },
+        "-preface": {
+          "type": "header",
+          "text": "📌 Preface",
+          "value": "-preface",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        },
+        "-introduction": {
+          "type": "header",
+          "text": "🪧 Introduction",
+          "value": "-introduction",
+          "line": 24,
+          "column": 0,
+          "depth": 2
+        },
+        "-what-is-data-engineering": {
+          "type": "header",
+          "text": "🔍 What is Data Engineering?",
+          "value": "-what-is-data-engineering",
+          "line": 40,
+          "column": 0,
+          "depth": 2
+        },
+        "-the-kitchen-vs-the-business-analytics": {
+          "type": "header",
+          "text": "🍳 The Kitchen Vs The Business Analytics",
+          "value": "-the-kitchen-vs-the-business-analytics",
+          "line": 48,
+          "column": 0,
+          "depth": 3
+        },
+        "-the-career-shift-to-data-engineering": {
+          "type": "header",
+          "text": "🔄 The Career Shift to Data Engineering",
+          "value": "-the-career-shift-to-data-engineering",
+          "line": 67,
+          "column": 0,
+          "depth": 2
+        },
+        "-key-lessons": {
+          "type": "header",
+          "text": "🎯 Key Lessons:",
+          "value": "-key-lessons",
+          "line": 75,
+          "column": 0,
+          "depth": 3
+        },
+        "-essential-traits-of-a-data-engineer": {
+          "type": "header",
+          "text": "🏆 Essential Traits of a Data Engineer",
+          "value": "-essential-traits-of-a-data-engineer",
+          "line": 81,
+          "column": 0,
+          "depth": 2
+        },
+        "️-aws-experiences--why-cloud": {
+          "type": "header",
+          "text": "☁️ AWS Experiences – Why Cloud?",
+          "value": "️-aws-experiences--why-cloud",
+          "line": 94,
+          "column": 0,
+          "depth": 2
+        },
+        "-getting-started-with-aws-analytics-solutions": {
+          "type": "header",
+          "text": "🚀 Getting Started with AWS Analytics Solutions",
+          "value": "-getting-started-with-aws-analytics-solutions",
+          "line": 107,
+          "column": 0,
+          "depth": 2
+        },
+        "-the-data-kitchen": {
+          "type": "header",
+          "text": "🔥 The Data Kitchen",
+          "value": "-the-data-kitchen",
+          "line": 114,
+          "column": 0,
+          "depth": 2
+        },
+        "️-aws-glue": {
+          "type": "header",
+          "text": "🛠️ AWS Glue",
+          "value": "️-aws-glue",
+          "line": 129,
+          "column": 0,
+          "depth": 2
+        },
+        "️-amazon-redshift": {
+          "type": "header",
+          "text": "🏛️ Amazon Redshift",
+          "value": "️-amazon-redshift",
+          "line": 143,
+          "column": 0,
+          "depth": 2
+        },
+        "-aws-step-functions": {
+          "type": "header",
+          "text": "🔄 AWS Step Functions",
+          "value": "-aws-step-functions",
+          "line": 155,
+          "column": 0,
+          "depth": 2
+        },
+        "-the-data-journey-continues": {
+          "type": "header",
+          "text": "🎯 The Data Journey Continues!",
+          "value": "-the-data-journey-continues",
+          "line": 167,
+          "column": 0,
+          "depth": 2
+        },
+        "-contact-information": {
+          "type": "header",
+          "text": "📬 Contact Information",
+          "value": "-contact-information",
+          "line": 175,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "xulowrfdq2vygbvc2chfehb",
+      "data": {}
+    },
+    "y8p0l00iqb0o432b9dn3gbr": {
+      "id": "y8p0l00iqb0o432b9dn3gbr",
+      "title": "Career Journey",
+      "desc": "",
+      "enableGiscus": true,
+      "updated": 1739369589796,
+      "created": 1739110685802,
+      "custom": {
+        "enableGiscus": true,
+        "nav_order": 1
+      },
+      "fname": "career-journey",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Portfolio"
+      },
+      "contentHash": "ef6e0c43421e1882afbe4b0ce315ccec",
+      "links": [
+        {
+          "type": "ref",
+          "from": {
+            "fname": "career-journey",
+            "id": "y8p0l00iqb0o432b9dn3gbr",
+            "vaultName": "Portfolio"
+          },
+          "value": "career-journey.skills",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 1,
+              "offset": 873
+            },
+            "end": {
+              "line": 9,
+              "column": 39,
+              "offset": 911
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "career-journey.skills",
+            "anchorHeader": "-key-skills"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "career-journey",
+            "id": "y8p0l00iqb0o432b9dn3gbr",
+            "vaultName": "Portfolio"
+          },
+          "value": "career-journey.experience",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 1,
+              "offset": 914
+            },
+            "end": {
+              "line": 11,
+              "column": 51,
+              "offset": 964
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "career-journey.experience",
+            "anchorHeader": "-experience-details"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "career-journey",
+            "id": "y8p0l00iqb0o432b9dn3gbr",
+            "vaultName": "Portfolio"
+          },
+          "value": "career-journey.certifications",
+          "position": {
+            "start": {
+              "line": 13,
+              "column": 1,
+              "offset": 968
+            },
+            "end": {
+              "line": 13,
+              "column": 64,
+              "offset": 1031
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "career-journey.certifications",
+            "anchorHeader": "-professional-certifications"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "career-journey",
+            "id": "y8p0l00iqb0o432b9dn3gbr",
+            "vaultName": "Portfolio"
+          },
+          "value": "career-journey.education",
+          "position": {
+            "start": {
+              "line": 15,
+              "column": 1,
+              "offset": 1035
+            },
+            "end": {
+              "line": 15,
+              "column": 49,
+              "offset": 1083
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "career-journey.education",
+            "anchorHeader": "-education-details"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "career-journey",
+            "id": "y8p0l00iqb0o432b9dn3gbr",
+            "vaultName": "Portfolio"
+          },
+          "value": "career-journey.additional-experience",
+          "position": {
+            "start": {
+              "line": 17,
+              "column": 1,
+              "offset": 1087
+            },
+            "end": {
+              "line": 17,
+              "column": 78,
+              "offset": 1164
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "career-journey.additional-experience",
+            "anchorHeader": "-public-speaking--knowledge-sharing"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "career-journey",
+            "id": "y8p0l00iqb0o432b9dn3gbr",
+            "vaultName": "Portfolio"
+          },
+          "value": "career-journey.additional-experience",
+          "position": {
+            "start": {
+              "line": 19,
+              "column": 1,
+              "offset": 1166
+            },
+            "end": {
+              "line": 19,
+              "column": 70,
+              "offset": 1235
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "career-journey.additional-experience",
+            "anchorHeader": "-achievements--recognitions"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "career-journey",
+            "id": "y8p0l00iqb0o432b9dn3gbr",
+            "vaultName": "Portfolio"
+          },
+          "value": "career-journey.additional-experience",
+          "position": {
+            "start": {
+              "line": 21,
+              "column": 1,
+              "offset": 1237
+            },
+            "end": {
+              "line": 21,
+              "column": 67,
+              "offset": 1303
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "career-journey.additional-experience",
+            "anchorHeader": "-projects--contributions"
+          }
+        },
+        {
+          "from": {
+            "fname": "about",
+            "id": "vwb9kn7vsijfyuc0xofz0ey",
+            "vaultName": "Portfolio"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 34,
+              "column": 7,
+              "offset": 1580
+            },
+            "end": {
+              "line": 34,
+              "column": 53,
+              "offset": 1626
+            },
+            "indent": []
+          },
+          "value": "career-journey"
+        }
+      ],
+      "anchors": {
+        "-select--from-careerjourney": {
+          "type": "header",
+          "text": "~> select * from CareerJourney;",
+          "value": "-select--from-careerjourney",
+          "line": 9,
+          "column": 0,
+          "depth": 1
+        },
+        "-summary": {
+          "type": "header",
+          "text": "🧑‍💻 Summary",
+          "value": "-summary",
+          "line": 11,
+          "column": 0,
+          "depth": 2
+        },
+        "-download-resume": {
+          "type": "header",
+          "text": "📥 Download Resume",
+          "value": "-download-resume",
+          "line": 30,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "3nvkpypdkmwo40aytvhrkfh",
+        "bw5jmbt2dtjcw5xs9x2qr00",
+        "megd9nfsesifnzzt2v8gj8p",
+        "ap3o9rbjjjnk0vy7jsyu1b8",
+        "pfn3yafwj5q5cnwpru9kgmy"
+      ],
+      "parent": null,
+      "data": {}
+    },
+    "pfn3yafwj5q5cnwpru9kgmy": {
+      "id": "pfn3yafwj5q5cnwpru9kgmy",
+      "title": "Skills",
+      "desc": "",
+      "updated": 1739350406893,
+      "created": 1739110737800,
+      "custom": {},
+      "fname": "career-journey.skills",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Portfolio"
+      },
+      "contentHash": "a4b5e35149fa91f48d2586354d2beeb2",
+      "links": [
+        {
+          "from": {
+            "fname": "career-journey",
+            "id": "y8p0l00iqb0o432b9dn3gbr",
+            "vaultName": "Portfolio"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 1,
+              "offset": 873
+            },
+            "end": {
+              "line": 9,
+              "column": 39,
+              "offset": 911
+            },
+            "indent": []
+          },
+          "value": "career-journey.skills"
+        }
+      ],
+      "anchors": {
+        "-select--from-skills": {
+          "type": "header",
+          "text": "~> select * from Skills;",
+          "value": "-select--from-skills",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
+        "-key-skills": {
+          "type": "header",
+          "text": "💾 Key Skills",
+          "value": "-key-skills",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "️-experience-years-of-skills": {
+          "type": "header",
+          "text": "⚙️ Experience Years of Skills",
+          "value": "️-experience-years-of-skills",
+          "line": 25,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "y8p0l00iqb0o432b9dn3gbr",
+      "data": {}
+    },
+    "ap3o9rbjjjnk0vy7jsyu1b8": {
+      "id": "ap3o9rbjjjnk0vy7jsyu1b8",
+      "title": "Experience",
+      "desc": "",
+      "updated": 1739358659349,
+      "created": 1739110715109,
+      "custom": {},
+      "fname": "career-journey.experience",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Portfolio"
+      },
+      "contentHash": "ebf101d680664d2fba6687dea79009e8",
+      "links": [
+        {
+          "from": {
+            "fname": "career-journey",
+            "id": "y8p0l00iqb0o432b9dn3gbr",
+            "vaultName": "Portfolio"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 1,
+              "offset": 914
+            },
+            "end": {
+              "line": 11,
+              "column": 51,
+              "offset": 964
+            },
+            "indent": []
+          },
+          "value": "career-journey.experience"
+        }
+      ],
+      "anchors": {
+        "-select--from-experience": {
+          "type": "header",
+          "text": "~> select * from Experience;",
+          "value": "-select--from-experience",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
+        "-experience-details": {
+          "type": "header",
+          "text": "🧬 Experience Details",
+          "value": "-experience-details",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        },
+        "kbz-bank--myanmars-largest-privately-owned-bank": {
+          "type": "header",
+          "text": "KBZ Bank — Myanmar’s largest privately-owned bank",
+          "value": "kbz-bank--myanmars-largest-privately-owned-bank",
+          "line": 14,
+          "column": 0,
+          "depth": 3
+        },
+        "wave-money--myanmars-first-mobile-financial-services-provider": {
+          "type": "header",
+          "text": "Wave Money — Myanmar’s first mobile financial services provider",
+          "value": "wave-money--myanmars-first-mobile-financial-services-provider",
+          "line": 31,
+          "column": 0,
+          "depth": 3
+        },
+        "emerson-automation-solutions-singapore--industrial-automation-technology-software-and-engineering": {
+          "type": "header",
+          "text": "Emerson Automation Solutions Singapore — Industrial automation technology, software and engineering",
+          "value": "emerson-automation-solutions-singapore--industrial-automation-technology-software-and-engineering",
+          "line": 41,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "y8p0l00iqb0o432b9dn3gbr",
+      "data": {}
+    },
+    "megd9nfsesifnzzt2v8gj8p": {
+      "id": "megd9nfsesifnzzt2v8gj8p",
+      "title": "Education",
+      "desc": "",
+      "updated": 1739359314539,
+      "created": 1739110729895,
+      "custom": {},
+      "fname": "career-journey.education",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Portfolio"
+      },
+      "contentHash": "2c91f8792a4d501c572fb928f8af05a5",
+      "links": [
+        {
+          "from": {
+            "fname": "career-journey",
+            "id": "y8p0l00iqb0o432b9dn3gbr",
+            "vaultName": "Portfolio"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 15,
+              "column": 1,
+              "offset": 1035
+            },
+            "end": {
+              "line": 15,
+              "column": 49,
+              "offset": 1083
+            },
+            "indent": []
+          },
+          "value": "career-journey.education"
+        }
+      ],
+      "anchors": {
+        "-select--from-education": {
+          "type": "header",
+          "text": "~> select * from Education;",
+          "value": "-select--from-education",
+          "line": 7,
+          "column": 0,
+          "depth": 1
+        },
+        "-education-details": {
+          "type": "header",
+          "text": "🎓 Education Details",
+          "value": "-education-details",
+          "line": 9,
+          "column": 0,
+          "depth": 2
+        },
+        "national-university-of-singapore--singapore": {
+          "type": "header",
+          "text": "National University of Singapore — Singapore",
+          "value": "national-university-of-singapore--singapore",
+          "line": 11,
+          "column": 0,
+          "depth": 3
+        },
+        "singapore-polytechnic--singapore": {
+          "type": "header",
+          "text": "Singapore Polytechnic — Singapore",
+          "value": "singapore-polytechnic--singapore",
+          "line": 20,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "y8p0l00iqb0o432b9dn3gbr",
+      "data": {}
+    },
+    "bw5jmbt2dtjcw5xs9x2qr00": {
+      "id": "bw5jmbt2dtjcw5xs9x2qr00",
+      "title": "Certifications",
+      "desc": "",
+      "updated": 1739360406437,
+      "created": 1739110845885,
+      "custom": {},
+      "fname": "career-journey.certifications",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Portfolio"
+      },
+      "contentHash": "7dae160066ed0a61796ea6ca6d331adb",
+      "links": [
+        {
+          "from": {
+            "fname": "career-journey",
+            "id": "y8p0l00iqb0o432b9dn3gbr",
+            "vaultName": "Portfolio"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 13,
+              "column": 1,
+              "offset": 968
+            },
+            "end": {
+              "line": 13,
+              "column": 64,
+              "offset": 1031
+            },
+            "indent": []
+          },
+          "value": "career-journey.certifications"
+        }
+      ],
+      "anchors": {
+        "-select--from-certifications": {
+          "type": "header",
+          "text": "~> select * from Certifications;",
+          "value": "-select--from-certifications",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
+        "-professional-certifications": {
+          "type": "header",
+          "text": "📖 Professional Certifications",
+          "value": "-professional-certifications",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "google-cloud": {
+          "type": "header",
+          "text": "Google Cloud",
+          "value": "google-cloud",
+          "line": 12,
+          "column": 0,
+          "depth": 3
+        },
+        "dbt-labs": {
+          "type": "header",
+          "text": "dbt Labs",
+          "value": "dbt-labs",
+          "line": 21,
+          "column": 0,
+          "depth": 3
+        },
+        "linkedin-learning": {
+          "type": "header",
+          "text": "LinkedIn Learning",
+          "value": "linkedin-learning",
+          "line": 31,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [],
+      "parent": "y8p0l00iqb0o432b9dn3gbr",
+      "data": {}
+    },
+    "3nvkpypdkmwo40aytvhrkfh": {
+      "id": "3nvkpypdkmwo40aytvhrkfh",
+      "title": "Additional Experience",
+      "desc": "",
+      "updated": 1739369473142,
+      "created": 1739110829716,
+      "custom": {},
+      "fname": "career-journey.additional-experience",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Portfolio"
+      },
+      "contentHash": "704b71e501164cf77feab7a7f4a2d73f",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "career-journey.additional-experience",
+            "id": "3nvkpypdkmwo40aytvhrkfh",
+            "vaultName": "Portfolio"
+          },
+          "value": "showcase.a-data-engineer-journey",
+          "alias": "A Data Engineer’s Journey",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 5,
+              "offset": 452
+            },
+            "end": {
+              "line": 7,
+              "column": 69,
+              "offset": 516
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "showcase.a-data-engineer-journey"
+          }
+        },
+        {
+          "from": {
+            "fname": "career-journey",
+            "id": "y8p0l00iqb0o432b9dn3gbr",
+            "vaultName": "Portfolio"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 17,
+              "column": 1,
+              "offset": 1087
+            },
+            "end": {
+              "line": 17,
+              "column": 78,
+              "offset": 1164
+            },
+            "indent": []
+          },
+          "value": "career-journey.additional-experience"
+        },
+        {
+          "from": {
+            "fname": "career-journey",
+            "id": "y8p0l00iqb0o432b9dn3gbr",
+            "vaultName": "Portfolio"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 19,
+              "column": 1,
+              "offset": 1166
+            },
+            "end": {
+              "line": 19,
+              "column": 70,
+              "offset": 1235
+            },
+            "indent": []
+          },
+          "value": "career-journey.additional-experience"
+        },
+        {
+          "from": {
+            "fname": "career-journey",
+            "id": "y8p0l00iqb0o432b9dn3gbr",
+            "vaultName": "Portfolio"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 21,
+              "column": 1,
+              "offset": 1237
+            },
+            "end": {
+              "line": 21,
+              "column": 67,
+              "offset": 1303
+            },
+            "indent": []
+          },
+          "value": "career-journey.additional-experience"
+        }
+      ],
+      "anchors": {
+        "-select--from-additionalexperience": {
+          "type": "header",
+          "text": "~> select * from AdditionalExperience;",
+          "value": "-select--from-additionalexperience",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
+        "-public-speaking--knowledge-sharing": {
+          "type": "header",
+          "text": "🧑‍🏫 Public Speaking & Knowledge Sharing",
+          "value": "-public-speaking--knowledge-sharing",
+          "line": 10,
+          "column": 0,
+          "depth": 2
+        },
+        "-achievements--recognitions": {
+          "type": "header",
+          "text": "🏆 Achievements & Recognitions",
+          "value": "-achievements--recognitions",
+          "line": 17,
+          "column": 0,
+          "depth": 2
+        },
+        "-projects--contributions": {
+          "type": "header",
+          "text": "🤖 Projects & Contributions",
+          "value": "-projects--contributions",
+          "line": 23,
+          "column": 0,
+          "depth": 2
+        },
+        "ai--generative-ai-awareness-initiative-kbz-bank-2024": {
+          "type": "header",
+          "text": "AI & Generative AI Awareness Initiative (KBZ Bank, 2024)",
+          "value": "ai--generative-ai-awareness-initiative-kbz-bank-2024",
+          "line": 24,
+          "column": 0,
+          "depth": 3
+        },
+        "download-resume": {
+          "type": "header",
+          "text": "Download Resume",
+          "value": "download-resume",
+          "line": 31,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "y8p0l00iqb0o432b9dn3gbr",
+      "data": {}
+    },
+    "vwb9kn7vsijfyuc0xofz0ey": {
+      "id": "vwb9kn7vsijfyuc0xofz0ey",
+      "title": "About",
+      "desc": "",
+      "updated": 1739695193292,
+      "created": 1739085170729,
+      "enableGiscus": true,
+      "custom": {
+        "enableGiscus": true,
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "about",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Portfolio"
+      },
+      "contentHash": "8af9b787fef3d475d20b338b87ffadca",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "about",
+            "id": "vwb9kn7vsijfyuc0xofz0ey",
+            "vaultName": "Portfolio"
+          },
+          "value": "career-journey",
+          "alias": "🚀 Explore Career Journey",
+          "position": {
+            "start": {
+              "line": 34,
+              "column": 7,
+              "offset": 1580
+            },
+            "end": {
+              "line": 34,
+              "column": 53,
+              "offset": 1626
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "career-journey"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "about",
+            "id": "vwb9kn7vsijfyuc0xofz0ey",
+            "vaultName": "Portfolio"
+          },
+          "value": "showcase",
+          "alias": "🖥 Browse Showcase",
+          "position": {
+            "start": {
+              "line": 35,
+              "column": 7,
+              "offset": 1635
+            },
+            "end": {
+              "line": 35,
+              "column": 40,
+              "offset": 1668
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "showcase"
+          }
+        }
+      ],
+      "anchors": {
+        "-select--from-about": {
+          "type": "header",
+          "text": "~> select * from About;",
+          "value": "-select--from-about",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
+        "kaung-sithu": {
+          "type": "header",
+          "text": "Kaung SiThu",
+          "value": "kaung-sithu",
+          "line": 12,
+          "column": 0,
+          "depth": 1
+        },
+        "data-engineer--analytics-enthusiast": {
+          "type": "header",
+          "text": "Data Engineer & Analytics Enthusiast",
+          "value": "data-engineer--analytics-enthusiast",
+          "line": 13,
+          "column": 0,
+          "depth": 2
+        },
+        "-explore-career-journey": {
+          "type": "header",
+          "text": "🚀 Explore Career Journey",
+          "value": "-explore-career-journey",
+          "line": 41,
+          "column": 0,
+          "depth": 3
+        },
+        "-browse-showcase": {
+          "type": "header",
+          "text": "🖥 Browse Showcase",
+          "value": "-browse-showcase",
+          "line": 42,
+          "column": 0,
+          "depth": 3
+        },
+        "-download-resume-pdf": {
+          "type": "header",
+          "text": "📥 Download Resume (PDF)",
+          "value": "-download-resume-pdf",
+          "line": 43,
+          "column": 0,
+          "depth": 3
+        },
+        "-career-insights": {
+          "type": "header",
+          "text": "📊 Career Insights",
+          "value": "-career-insights",
+          "line": 45,
+          "column": 0,
+          "depth": 2
+        },
+        "education-and-career-timeline": {
+          "type": "header",
+          "text": "Education and Career Timeline",
+          "value": "education-and-career-timeline",
+          "line": 47,
+          "column": 0,
+          "depth": 3
+        },
+        "skill-composition": {
+          "type": "header",
+          "text": "Skill Composition",
+          "value": "skill-composition",
+          "line": 50,
+          "column": 0,
+          "depth": 3
+        },
+        "experience-years-of-skills": {
+          "type": "header",
+          "text": "Experience Years of Skills",
+          "value": "experience-years-of-skills",
+          "line": 54,
+          "column": 0,
+          "depth": 3
+        },
+        "-contact-information": {
+          "type": "header",
+          "text": "📬 Contact Information",
+          "value": "-contact-information",
+          "line": 61,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": null,
+      "data": {}
+    }
+  },
+  "domains": [
+    {
+      "id": "vwb9kn7vsijfyuc0xofz0ey",
+      "title": "About",
+      "desc": "",
+      "updated": 1739695193292,
+      "created": 1739085170729,
+      "enableGiscus": true,
+      "custom": {
+        "enableGiscus": true,
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "about",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Portfolio"
+      },
+      "contentHash": "8af9b787fef3d475d20b338b87ffadca",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "about",
+            "id": "vwb9kn7vsijfyuc0xofz0ey",
+            "vaultName": "Portfolio"
+          },
+          "value": "career-journey",
+          "alias": "🚀 Explore Career Journey",
+          "position": {
+            "start": {
+              "line": 34,
+              "column": 7,
+              "offset": 1580
+            },
+            "end": {
+              "line": 34,
+              "column": 53,
+              "offset": 1626
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "career-journey"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "about",
+            "id": "vwb9kn7vsijfyuc0xofz0ey",
+            "vaultName": "Portfolio"
+          },
+          "value": "showcase",
+          "alias": "🖥 Browse Showcase",
+          "position": {
+            "start": {
+              "line": 35,
+              "column": 7,
+              "offset": 1635
+            },
+            "end": {
+              "line": 35,
+              "column": 40,
+              "offset": 1668
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "showcase"
+          }
+        }
+      ],
+      "anchors": {
+        "-select--from-about": {
+          "type": "header",
+          "text": "~> select * from About;",
+          "value": "-select--from-about",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
+        "kaung-sithu": {
+          "type": "header",
+          "text": "Kaung SiThu",
+          "value": "kaung-sithu",
+          "line": 12,
+          "column": 0,
+          "depth": 1
+        },
+        "data-engineer--analytics-enthusiast": {
+          "type": "header",
+          "text": "Data Engineer & Analytics Enthusiast",
+          "value": "data-engineer--analytics-enthusiast",
+          "line": 13,
+          "column": 0,
+          "depth": 2
+        },
+        "-explore-career-journey": {
+          "type": "header",
+          "text": "🚀 Explore Career Journey",
+          "value": "-explore-career-journey",
+          "line": 41,
+          "column": 0,
+          "depth": 3
+        },
+        "-browse-showcase": {
+          "type": "header",
+          "text": "🖥 Browse Showcase",
+          "value": "-browse-showcase",
+          "line": 42,
+          "column": 0,
+          "depth": 3
+        },
+        "-download-resume-pdf": {
+          "type": "header",
+          "text": "📥 Download Resume (PDF)",
+          "value": "-download-resume-pdf",
+          "line": 43,
+          "column": 0,
+          "depth": 3
+        },
+        "-career-insights": {
+          "type": "header",
+          "text": "📊 Career Insights",
+          "value": "-career-insights",
+          "line": 45,
+          "column": 0,
+          "depth": 2
+        },
+        "education-and-career-timeline": {
+          "type": "header",
+          "text": "Education and Career Timeline",
+          "value": "education-and-career-timeline",
+          "line": 47,
+          "column": 0,
+          "depth": 3
+        },
+        "skill-composition": {
+          "type": "header",
+          "text": "Skill Composition",
+          "value": "skill-composition",
+          "line": 50,
+          "column": 0,
+          "depth": 3
+        },
+        "experience-years-of-skills": {
+          "type": "header",
+          "text": "Experience Years of Skills",
+          "value": "experience-years-of-skills",
+          "line": 54,
+          "column": 0,
+          "depth": 3
+        },
+        "-contact-information": {
+          "type": "header",
+          "text": "📬 Contact Information",
+          "value": "-contact-information",
+          "line": 61,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": null,
+      "data": {},
+      "body": "# <span style=\"color:MediumSeaGreen\">~></span> <span style=\"color:SteelBlue\">select</span> <span style=\"color:Salmon\">*</span> <span style=\"color:SteelBlue\">from</span> **About;**\n\n<img src=\"/assets/images/kst-portfolio-photo-circle-small.png\" style=\"width:200px; height:200px; float:right;\" />\n\n# Kaung SiThu  \n## _ Data Engineer & Analytics Enthusiast _\nLife is short. Let's make technology work for us for the better of humanity.  \n\n<br/><br/>\n**Hello there! Welcome to my portfolio page.**  \n\nI'm driven by a passion for transforming raw data into actionable insights. I thrive on building robust data pipelines and crafting solutions that empower data-driven decision-making.  My expertise lies in data engineering, cloud technologies, and system integration. I believe technology should serve humanity, and I'm always eager to explore innovative ways to make that happen.\n<br/>\n\n<!-- <a href=\"https://kaungsithu.github.io/notes/y8p0l00iqb0o432b9dn3gbr\" >\n    <button style=\"cursor: pointer; padding: 5px 5px;\" >\n        <span style=\"font-size:1.2em;\" > \n            <strong> Explore My Journey <strong>\n        </span> &nbsp &nbsp \n        <img src=\"/assets/images/professional-portfolio-32.png\" />\n    </button>\n</a>\n&nbsp &nbsp \n<a href=\"/assets/KaungSiThu-Resume.pdf\" target=\"_blank\">\n    <button style=\"cursor: pointer; padding: 5px 5px; float: right;\" >\n        <span style=\"font-size:1.2em;\" > \n            <strong> Download Resume <strong>\n        </span> &nbsp &nbsp \n        <img src=\"/assets/images/download-pdf-32.png\" />\n    </button>\n</a>\n<br/><br/> -->\n\n### **[[🚀 Explore Career Journey | career-journey]]**\n### **[[🖥 Browse Showcase | showcase]]**\n### [**📥 Download Resume (PDF)**](/assets/Kaung%20SiThu%20-%20Resume.pdf)\n\n## 📊 Career Insights\n\n### Education and Career Timeline\n\n[![A chart of my education and career in timeline format.](/assets/images/career-timeline.jpg)](https://kaungsithu.github.io/notes/ap3o9rbjjjnk0vy7jsyu1b8)\n### Skill Composition\n\n![A donut chart of my overall skill compositions](/assets/images/skill-composition.jpg)\n\n### Experience Years of Skills\n\n![A bar graph of my top skills and their years of experience](/assets/images/skill-experience.jpg)\n\n<!-- ![](/assets/images/career-insights.png) -->\n\n\n## 📬 Contact Information  \n\nI'd love to connect and discuss data engineering and analytics!  \n\n- ✉️ - <a href=\"mailto:kaungsithu.kaungsithu@gmail.com\"> ** kaungsithu.kaungsithu@gmail.com ** </a>\n- ![](/assets/images/linkedin-logo.png) - <a href=\"https://www.linkedin.com/in/ksithu\" target=\"_blank\"> ** linkedin.com/in/ksithu ** </a>\n\n\n\n<!-- \n*   A clear call to action: \"View My Resume\" (links to `/resume/summary.md`) or \"Explore My Talks\" (links to `/talks/`).\n\n**(Middle Section - Briefly showcase key highlights)**\n\n*   **Featured Talk:**  Highlight your most impressive talk (e.g., AWS Community Day).  Include a short summary and a link to the detailed notes (`/talks/aws-community-day.md`).  Embed a video if available.\n*   **Key Skills/Areas of Expertise:**  List 3-5 of your most relevant skills (e.g., Data Warehousing, Cloud Computing, Data Visualization, Python).\n*   **Recent Certification:** Briefly mention your Google Cloud Data Analytics Certification and link to the details (`/certifications/google-cloud-data-analytics.md`).\n\n**(Bottom Section - Connect and Explore)**\n\n*   **Blog Preview:** Tease 1-2 upcoming blog posts to encourage visitors to return.  (e.g., \"Coming Soon:  Setting up Notifications from Your Data Warehouse\").\n*   **Call to Action:** \"Explore My Blog\" (links to `/blog/`).\n*   **Contact Information/Links:** LinkedIn, GitHub, Email (optional). -->"
+    },
+    {
+      "id": "y8p0l00iqb0o432b9dn3gbr",
+      "title": "Career Journey",
+      "desc": "",
+      "enableGiscus": true,
+      "updated": 1739369589796,
+      "created": 1739110685802,
+      "custom": {
+        "enableGiscus": true,
+        "nav_order": 1
+      },
+      "fname": "career-journey",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Portfolio"
+      },
+      "contentHash": "ef6e0c43421e1882afbe4b0ce315ccec",
+      "links": [
+        {
+          "type": "ref",
+          "from": {
+            "fname": "career-journey",
+            "id": "y8p0l00iqb0o432b9dn3gbr",
+            "vaultName": "Portfolio"
+          },
+          "value": "career-journey.skills",
+          "position": {
+            "start": {
+              "line": 9,
+              "column": 1,
+              "offset": 873
+            },
+            "end": {
+              "line": 9,
+              "column": 39,
+              "offset": 911
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "career-journey.skills",
+            "anchorHeader": "-key-skills"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "career-journey",
+            "id": "y8p0l00iqb0o432b9dn3gbr",
+            "vaultName": "Portfolio"
+          },
+          "value": "career-journey.experience",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 1,
+              "offset": 914
+            },
+            "end": {
+              "line": 11,
+              "column": 51,
+              "offset": 964
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "career-journey.experience",
+            "anchorHeader": "-experience-details"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "career-journey",
+            "id": "y8p0l00iqb0o432b9dn3gbr",
+            "vaultName": "Portfolio"
+          },
+          "value": "career-journey.certifications",
+          "position": {
+            "start": {
+              "line": 13,
+              "column": 1,
+              "offset": 968
+            },
+            "end": {
+              "line": 13,
+              "column": 64,
+              "offset": 1031
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "career-journey.certifications",
+            "anchorHeader": "-professional-certifications"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "career-journey",
+            "id": "y8p0l00iqb0o432b9dn3gbr",
+            "vaultName": "Portfolio"
+          },
+          "value": "career-journey.education",
+          "position": {
+            "start": {
+              "line": 15,
+              "column": 1,
+              "offset": 1035
+            },
+            "end": {
+              "line": 15,
+              "column": 49,
+              "offset": 1083
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "career-journey.education",
+            "anchorHeader": "-education-details"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "career-journey",
+            "id": "y8p0l00iqb0o432b9dn3gbr",
+            "vaultName": "Portfolio"
+          },
+          "value": "career-journey.additional-experience",
+          "position": {
+            "start": {
+              "line": 17,
+              "column": 1,
+              "offset": 1087
+            },
+            "end": {
+              "line": 17,
+              "column": 78,
+              "offset": 1164
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "career-journey.additional-experience",
+            "anchorHeader": "-public-speaking--knowledge-sharing"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "career-journey",
+            "id": "y8p0l00iqb0o432b9dn3gbr",
+            "vaultName": "Portfolio"
+          },
+          "value": "career-journey.additional-experience",
+          "position": {
+            "start": {
+              "line": 19,
+              "column": 1,
+              "offset": 1166
+            },
+            "end": {
+              "line": 19,
+              "column": 70,
+              "offset": 1235
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "career-journey.additional-experience",
+            "anchorHeader": "-achievements--recognitions"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "career-journey",
+            "id": "y8p0l00iqb0o432b9dn3gbr",
+            "vaultName": "Portfolio"
+          },
+          "value": "career-journey.additional-experience",
+          "position": {
+            "start": {
+              "line": 21,
+              "column": 1,
+              "offset": 1237
+            },
+            "end": {
+              "line": 21,
+              "column": 67,
+              "offset": 1303
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "career-journey.additional-experience",
+            "anchorHeader": "-projects--contributions"
+          }
+        },
+        {
+          "from": {
+            "fname": "about",
+            "id": "vwb9kn7vsijfyuc0xofz0ey",
+            "vaultName": "Portfolio"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 34,
+              "column": 7,
+              "offset": 1580
+            },
+            "end": {
+              "line": 34,
+              "column": 53,
+              "offset": 1626
+            },
+            "indent": []
+          },
+          "value": "career-journey"
+        }
+      ],
+      "anchors": {
+        "-select--from-careerjourney": {
+          "type": "header",
+          "text": "~> select * from CareerJourney;",
+          "value": "-select--from-careerjourney",
+          "line": 9,
+          "column": 0,
+          "depth": 1
+        },
+        "-summary": {
+          "type": "header",
+          "text": "🧑‍💻 Summary",
+          "value": "-summary",
+          "line": 11,
+          "column": 0,
+          "depth": 2
+        },
+        "-download-resume": {
+          "type": "header",
+          "text": "📥 Download Resume",
+          "value": "-download-resume",
+          "line": 30,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [
+        "3nvkpypdkmwo40aytvhrkfh",
+        "bw5jmbt2dtjcw5xs9x2qr00",
+        "megd9nfsesifnzzt2v8gj8p",
+        "ap3o9rbjjjnk0vy7jsyu1b8",
+        "pfn3yafwj5q5cnwpru9kgmy"
+      ],
+      "parent": null,
+      "data": {},
+      "body": "\n# <span style=\"color:MediumSeaGreen\">~></span> <span style=\"color:SteelBlue\">select</span> <span style=\"color:Salmon\">*</span> <span style=\"color:SteelBlue\">from</span> **CareerJourney;**\n\n##  🧑‍💻 Summary  \n\nA highly motivated and results-driven data engineer passionate about building scalable, high-impact data solutions. With over a decade of experience, I specialize in designing and optimizing data platforms, pipelines, and analytics systems that drive business value. My expertise spans fintech, banking, and manufacturing automation, where I’ve solved complex data challenges, improved workflows, and mentored teams to elevate data capabilities. I believe that technology isn’t just about efficiency—it’s a catalyst for innovation and meaningful change. I thrive in dynamic environments, collaborating across teams to unlock the full potential of data.  \n<br/>\n\n![[career-journey.skills#-key-skills]] \n\n![[career-journey.experience#-experience-details]]  \n\n![[career-journey.certifications#-professional-certifications]]  \n\n![[career-journey.education#-education-details]]  \n\n![[career-journey.additional-experience#-public-speaking--knowledge-sharing]]\n\n![[career-journey.additional-experience#-achievements--recognitions]]\n\n![[career-journey.additional-experience#-projects--contributions]]\n\n## 📥 Download Resume  \n[** Download Resume (PDF) **](/assets/Kaung%20SiThu%20-%20Resume.pdf)  \n\n"
+    },
+    {
+      "id": "xulowrfdq2vygbvc2chfehb",
+      "title": "Showcase",
+      "desc": "",
+      "updated": 1739470810583,
+      "created": 1739338758710,
+      "custom": {
+        "nav_order": 2
+      },
+      "fname": "showcase",
+      "type": "note",
+      "vault": {
+        "fsPath": ".",
+        "selfContained": true,
+        "name": "Portfolio"
+      },
+      "contentHash": "a6d5c34b882d45f7775e3c5e706cba1d",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "showcase",
+            "id": "xulowrfdq2vygbvc2chfehb",
+            "vaultName": "Portfolio"
+          },
+          "value": "showcase.a-data-engineer-journey",
+          "alias": "A Data Engineer's Journey",
+          "position": {
+            "start": {
+              "line": 5,
+              "column": 9,
+              "offset": 198
+            },
+            "end": {
+              "line": 5,
+              "column": 73,
+              "offset": 262
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "showcase.a-data-engineer-journey"
+          }
+        },
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "showcase",
+            "id": "xulowrfdq2vygbvc2chfehb",
+            "vaultName": "Portfolio"
+          },
+          "value": "showcase.critical-role-of-data-analytics-systems-&-talents",
+          "alias": "Future Proofing Business: The Critical Role of Data Analytics Systems and Talents",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 9,
+              "offset": 272
+            },
+            "end": {
+              "line": 7,
+              "column": 153,
+              "offset": 416
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "showcase.critical-role-of-data-analytics-systems-&-talents"
+          }
+        },
+        {
+          "type": "ref",
+          "from": {
+            "fname": "showcase",
+            "id": "xulowrfdq2vygbvc2chfehb",
+            "vaultName": "Portfolio"
+          },
+          "value": "showcase.a-data-engineer-journey",
+          "position": {
+            "start": {
+              "line": 11,
+              "column": 1,
+              "offset": 423
+            },
+            "end": {
+              "line": 11,
+              "column": 47,
+              "offset": 469
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "to": {
+            "fname": "showcase.a-data-engineer-journey",
+            "anchorHeader": "-preface"
+          }
+        },
+        {
+          "from": {
+            "fname": "about",
+            "id": "vwb9kn7vsijfyuc0xofz0ey",
+            "vaultName": "Portfolio"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 35,
+              "column": 7,
+              "offset": 1635
+            },
+            "end": {
+              "line": 35,
+              "column": 40,
+              "offset": 1668
+            },
+            "indent": []
+          },
+          "value": "showcase"
+        }
+      ],
+      "anchors": {
+        "-select--from-showcase": {
+          "type": "header",
+          "text": "~> select * from Showcase;",
+          "value": "-select--from-showcase",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        },
+        "--a-data-engineers-journey": {
+          "type": "header",
+          "text": "🌱  A Data Engineer's Journey",
+          "value": "--a-data-engineers-journey",
+          "line": 11,
+          "column": 0,
+          "depth": 3
+        },
+        "--future-proofing-business-the-critical-role-of-data-analytics-systems-and-talents": {
+          "type": "header",
+          "text": "🌱  Future Proofing Business: The Critical Role of Data Analytics Systems and Talents",
+          "value": "--future-proofing-business-the-critical-role-of-data-analytics-systems-and-talents",
+          "line": 13,
+          "column": 0,
+          "depth": 3
+        }
+      },
+      "children": [
+        "ohvpqwgil5q4ka74vxkmctc",
+        "ef03q224azk0hdv3qbvmsr3"
+      ],
+      "parent": null,
+      "data": {},
+      "body": "\n# <span style=\"color:MediumSeaGreen\">~></span> <span style=\"color:SteelBlue\">select</span> <span style=\"color:Salmon\">*</span> <span style=\"color:SteelBlue\">from</span> **Showcase;**\n\n--- \n### 🌱  [[A Data Engineer's Journey | showcase.a-data-engineer-journey]]\n\n### 🌱  [[Future Proofing Business: The Critical Role of Data Analytics Systems and Talents|showcase.critical-role-of-data-analytics-systems-&-talents]]\n\n---\n\n![[showcase.a-data-engineer-journey#-preface]]"
+    }
+  ],
+  "noteIndex": {
+    "id": "vwb9kn7vsijfyuc0xofz0ey",
+    "title": "About",
+    "desc": "",
+    "updated": 1739695193292,
+    "created": 1739085170729,
+    "enableGiscus": true,
+    "custom": {
+      "enableGiscus": true,
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "fname": "about",
+    "type": "note",
+    "vault": {
+      "fsPath": ".",
+      "selfContained": true,
+      "name": "Portfolio"
+    },
+    "contentHash": "8af9b787fef3d475d20b338b87ffadca",
+    "links": [
+      {
+        "type": "wiki",
+        "from": {
+          "fname": "about",
+          "id": "vwb9kn7vsijfyuc0xofz0ey",
+          "vaultName": "Portfolio"
+        },
+        "value": "career-journey",
+        "alias": "🚀 Explore Career Journey",
+        "position": {
+          "start": {
+            "line": 34,
+            "column": 7,
+            "offset": 1580
+          },
+          "end": {
+            "line": 34,
+            "column": 53,
+            "offset": 1626
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "sameFile": false,
+        "to": {
+          "fname": "career-journey"
+        }
+      },
+      {
+        "type": "wiki",
+        "from": {
+          "fname": "about",
+          "id": "vwb9kn7vsijfyuc0xofz0ey",
+          "vaultName": "Portfolio"
+        },
+        "value": "showcase",
+        "alias": "🖥 Browse Showcase",
+        "position": {
+          "start": {
+            "line": 35,
+            "column": 7,
+            "offset": 1635
+          },
+          "end": {
+            "line": 35,
+            "column": 40,
+            "offset": 1668
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "sameFile": false,
+        "to": {
+          "fname": "showcase"
+        }
+      }
+    ],
+    "anchors": {
+      "-select--from-about": {
+        "type": "header",
+        "text": "~> select * from About;",
+        "value": "-select--from-about",
+        "line": 8,
+        "column": 0,
+        "depth": 1
+      },
+      "kaung-sithu": {
+        "type": "header",
+        "text": "Kaung SiThu",
+        "value": "kaung-sithu",
+        "line": 12,
+        "column": 0,
+        "depth": 1
+      },
+      "data-engineer--analytics-enthusiast": {
+        "type": "header",
+        "text": "Data Engineer & Analytics Enthusiast",
+        "value": "data-engineer--analytics-enthusiast",
+        "line": 13,
+        "column": 0,
+        "depth": 2
+      },
+      "-explore-career-journey": {
+        "type": "header",
+        "text": "🚀 Explore Career Journey",
+        "value": "-explore-career-journey",
+        "line": 41,
+        "column": 0,
+        "depth": 3
+      },
+      "-browse-showcase": {
+        "type": "header",
+        "text": "🖥 Browse Showcase",
+        "value": "-browse-showcase",
+        "line": 42,
+        "column": 0,
+        "depth": 3
+      },
+      "-download-resume-pdf": {
+        "type": "header",
+        "text": "📥 Download Resume (PDF)",
+        "value": "-download-resume-pdf",
+        "line": 43,
+        "column": 0,
+        "depth": 3
+      },
+      "-career-insights": {
+        "type": "header",
+        "text": "📊 Career Insights",
+        "value": "-career-insights",
+        "line": 45,
+        "column": 0,
+        "depth": 2
+      },
+      "education-and-career-timeline": {
+        "type": "header",
+        "text": "Education and Career Timeline",
+        "value": "education-and-career-timeline",
+        "line": 47,
+        "column": 0,
+        "depth": 3
+      },
+      "skill-composition": {
+        "type": "header",
+        "text": "Skill Composition",
+        "value": "skill-composition",
+        "line": 50,
+        "column": 0,
+        "depth": 3
+      },
+      "experience-years-of-skills": {
+        "type": "header",
+        "text": "Experience Years of Skills",
+        "value": "experience-years-of-skills",
+        "line": 54,
+        "column": 0,
+        "depth": 3
+      },
+      "-contact-information": {
+        "type": "header",
+        "text": "📬 Contact Information",
+        "value": "-contact-information",
+        "line": 61,
+        "column": 0,
+        "depth": 2
+      }
+    },
+    "children": [],
+    "parent": null,
+    "data": {},
+    "body": "# <span style=\"color:MediumSeaGreen\">~></span> <span style=\"color:SteelBlue\">select</span> <span style=\"color:Salmon\">*</span> <span style=\"color:SteelBlue\">from</span> **About;**\n\n<img src=\"/assets/images/kst-portfolio-photo-circle-small.png\" style=\"width:200px; height:200px; float:right;\" />\n\n# Kaung SiThu  \n## _ Data Engineer & Analytics Enthusiast _\nLife is short. Let's make technology work for us for the better of humanity.  \n\n<br/><br/>\n**Hello there! Welcome to my portfolio page.**  \n\nI'm driven by a passion for transforming raw data into actionable insights. I thrive on building robust data pipelines and crafting solutions that empower data-driven decision-making.  My expertise lies in data engineering, cloud technologies, and system integration. I believe technology should serve humanity, and I'm always eager to explore innovative ways to make that happen.\n<br/>\n\n<!-- <a href=\"https://kaungsithu.github.io/notes/y8p0l00iqb0o432b9dn3gbr\" >\n    <button style=\"cursor: pointer; padding: 5px 5px;\" >\n        <span style=\"font-size:1.2em;\" > \n            <strong> Explore My Journey <strong>\n        </span> &nbsp &nbsp \n        <img src=\"/assets/images/professional-portfolio-32.png\" />\n    </button>\n</a>\n&nbsp &nbsp \n<a href=\"/assets/KaungSiThu-Resume.pdf\" target=\"_blank\">\n    <button style=\"cursor: pointer; padding: 5px 5px; float: right;\" >\n        <span style=\"font-size:1.2em;\" > \n            <strong> Download Resume <strong>\n        </span> &nbsp &nbsp \n        <img src=\"/assets/images/download-pdf-32.png\" />\n    </button>\n</a>\n<br/><br/> -->\n\n### **[[🚀 Explore Career Journey | career-journey]]**\n### **[[🖥 Browse Showcase | showcase]]**\n### [**📥 Download Resume (PDF)**](/assets/Kaung%20SiThu%20-%20Resume.pdf)\n\n## 📊 Career Insights\n\n### Education and Career Timeline\n\n[![A chart of my education and career in timeline format.](/assets/images/career-timeline.jpg)](https://kaungsithu.github.io/notes/ap3o9rbjjjnk0vy7jsyu1b8)\n### Skill Composition\n\n![A donut chart of my overall skill compositions](/assets/images/skill-composition.jpg)\n\n### Experience Years of Skills\n\n![A bar graph of my top skills and their years of experience](/assets/images/skill-experience.jpg)\n\n<!-- ![](/assets/images/career-insights.png) -->\n\n\n## 📬 Contact Information  \n\nI'd love to connect and discuss data engineering and analytics!  \n\n- ✉️ - <a href=\"mailto:kaungsithu.kaungsithu@gmail.com\"> ** kaungsithu.kaungsithu@gmail.com ** </a>\n- ![](/assets/images/linkedin-logo.png) - <a href=\"https://www.linkedin.com/in/ksithu\" target=\"_blank\"> ** linkedin.com/in/ksithu ** </a>\n\n\n\n<!-- \n*   A clear call to action: \"View My Resume\" (links to `/resume/summary.md`) or \"Explore My Talks\" (links to `/talks/`).\n\n**(Middle Section - Briefly showcase key highlights)**\n\n*   **Featured Talk:**  Highlight your most impressive talk (e.g., AWS Community Day).  Include a short summary and a link to the detailed notes (`/talks/aws-community-day.md`).  Embed a video if available.\n*   **Key Skills/Areas of Expertise:**  List 3-5 of your most relevant skills (e.g., Data Warehousing, Cloud Computing, Data Visualization, Python).\n*   **Recent Certification:** Briefly mention your Google Cloud Data Analytics Certification and link to the details (`/certifications/google-cloud-data-analytics.md`).\n\n**(Bottom Section - Connect and Explore)**\n\n*   **Blog Preview:** Tease 1-2 upcoming blog posts to encourage visitors to return.  (e.g., \"Coming Soon:  Setting up Notifications from Your Data Warehouse\").\n*   **Call to Action:** \"Explore My Blog\" (links to `/blog/`).\n*   **Contact Information/Links:** LinkedIn, GitHub, Email (optional). -->"
+  },
+  "vaults": [
+    {
+      "fsPath": ".",
+      "selfContained": true,
+      "name": "Portfolio"
+    }
+  ]
+}

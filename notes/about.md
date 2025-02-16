@@ -2,13 +2,13 @@
 id: vwb9kn7vsijfyuc0xofz0ey
 title: About
 desc: ''
-updated: 1739370167189
+updated: 1739695193292
 created: 1739085170729
 enableGiscus: true
 ---
 # <span style="color:MediumSeaGreen">~></span> <span style="color:SteelBlue">select</span> <span style="color:Salmon">*</span> <span style="color:SteelBlue">from</span> **About;**
 
-<img src="/assets/images/profile-picture.png" style="width:200px; height:200px; float:right;" />
+<img src="/assets/images/kst-portfolio-photo-circle-small.png" style="width:200px; height:200px; float:right;" />
 
 # Kaung SiThu  
 ## _ Data Engineer & Analytics Enthusiast _
